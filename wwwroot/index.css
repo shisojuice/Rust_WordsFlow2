@@ -1,0 +1,17 @@
+body {  
+  font-family: monospace;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+button {
+  width: 100px;
+}
+#words_input {
+  width: 250px;
+}
+#mainImg {
+  outline: blue 2px solid;
+  width: 320px;
+  height: 320px;
+}
