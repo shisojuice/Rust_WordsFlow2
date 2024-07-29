@@ -6,5 +6,5 @@ https://qiita.com/shisojuice/items/90c70d8218236e0325b3
 
 Demoサイト
 
-https://rust-wordsflow2.pages.dev
+https://shisojuice.github.io/Rust_WordsFlow2/
 
